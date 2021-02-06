@@ -1,3 +1,5 @@
+; Spam ALT+G to get Jett every time in Valorant. i dont play Valorant anymore.
+
 !g::
 Click, 756, 742
 Click, 756, 742
