@@ -1,6 +1,7 @@
 ; This is my main macro collection for Company of Heroes 2. Still wont let me beat Griffin.
 ; You're free to use this, modify this, do whatever. 
 ; version 0.1.2 
+; i am not responisble if you are banned for using this. cant see why you would be, but rts devs amirite? no macros unless youre literally a professional player. lookin at you sc2.
 
 ; Its called CoH2++ because I am creative(tm)
 ; It will probably have stuff you find to be useful.
